@@ -12,7 +12,7 @@
 
 // Obs.: Faça este processo para 03 alunos e enquadre cada um nas situações acima..
 
-//criando aluno1
+//criando  o aluno1
 aluno1_nota1=7;
 aluno1_nota2=7;
 aluno1_nota3=7;
@@ -33,7 +33,7 @@ aluno2="joao";
 aluno3="jessica";
 
 
-media1= 0; //media aluno 1, etc
+media1= 0; //average grade student 1, etc
 media2=0;
 media3=0;
 
