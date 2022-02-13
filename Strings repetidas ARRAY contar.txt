@@ -1,0 +1,28 @@
+//como procurar strings repetidas em um array,retornando no console
+//a quantidade de cada item repetido 10/02/2022
+
+
+var x=['maca','uva','banana','pera','pera','uva','banana','uva']
+//depois de ordenado fica facil contar o que esta do lado
+x.sort();
+var cont=1;
+for(let i=0;i<x.length;i++){
+
+    if(x[i]==x[i+1]){
+      cont++;
+  
+    }else if(x[i]!==x[i+1]){
+    
+        console.log(x[i]+" "+cont)    
+        cont=1;
+    }
+  
+ 
+
+}//for
+
+//resultado 
+banana 2
+maca 1
+pera 2
+uva 3
