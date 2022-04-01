@@ -22,7 +22,7 @@ for(let i=0;i<x.length;i++){
 }//for
 
 //resultado 
-banana 2
-maca 1
-pera 2
-uva 3
+//banana 2
+//maca 1
+//pera 2
+//uva 3
